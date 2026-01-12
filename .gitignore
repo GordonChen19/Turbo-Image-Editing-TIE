@@ -4,3 +4,4 @@
 /dataset/*
 /models/__pycache__/*
 /vlm/__pycache__/*
+/pdftopng.py
